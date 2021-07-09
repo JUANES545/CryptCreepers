@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 4c7c15bb1aecb094480b783635d9f145
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8115293498868394767
+    second: spawn point_0
+  - first:
+      213: 6538593338439145225
+    second: spawn point_1
+  - first:
+      213: 864661907146329652
+    second: spawn point_2
+  - first:
+      213: -5627742469050847298
+    second: spawn point_3
+  - first:
+      213: -6258295477361250752
+    second: spawn point_4
+  - first:
+      213: 6379368212690670831
+    second: spawn point_5
+  - first:
+      213: -3035713634604853679
+    second: spawn point_6
+  - first:
+      213: -6047209746626764475
+    second: spawn point_7
+  - first:
+      213: -7251419450684383152
+    second: spawn point_8
+  - first:
+      213: 6090205339965558068
+    second: spawn point_9
+  - first:
+      213: 8694877322630815691
+    second: spawn point_10
+  - first:
+      213: 5744571328172346606
+    second: spawn point_11
+  - first:
+      213: 553021635672060099
+    second: spawn point_12
+  - first:
+      213: -8721349734231849083
+    second: spawn point_13
+  - first:
+      213: 324291940562145420
+    second: spawn point_14
+  - first:
+      213: -5104401388948568459
+    second: spawn point_15
+  - first:
+      213: 5694921220461972989
+    second: EnemySpawnPoint_0
+  - first:
+      213: 8210333712678417409
+    second: EnemySpawnPoint_1
+  - first:
+      213: -37072748129236358
+    second: EnemySpawnPoint_2
+  - first:
+      213: -8256270017736148361
+    second: EnemySpawnPoint_3
+  - first:
+      213: -3789543968731899671
+    second: EnemySpawnPoint_4
+  - first:
+      213: 1717488879386275816
+    second: EnemySpawnPoint_5
+  - first:
+      213: 4910731421417237608
+    second: EnemySpawnPoint_6
+  - first:
+      213: -1164157017697291358
+    second: EnemySpawnPoint_7
+  - first:
+      213: 934910544325412113
+    second: EnemySpawnPoint_8
+  - first:
+      213: 5403082199839583866
+    second: EnemySpawnPoint_9
+  - first:
+      213: 7572723245184707873
+    second: EnemySpawnPoint_10
+  - first:
+      213: 6672680783544509052
+    second: EnemySpawnPoint_11
+  - first:
+      213: 3245283588192569409
+    second: EnemySpawnPoint_12
+  - first:
+      213: -451350768611179978
+    second: EnemySpawnPoint_13
+  - first:
+      213: -3771037644587172055
+    second: EnemySpawnPoint_14
+  - first:
+      213: -7614996651945037464
+    second: EnemySpawnPoint_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemySpawnPoint_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd48715dac680f40800000000000000
+      internalID: 5694921220461972989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnPoint_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1047c9fe207f0f170800000000000000
+      internalID: 8210333712678417409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnPoint_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac8e0388a4c7ff0800000000000000
+      internalID: -37072748129236358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpawnPoint_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af0279926db6d80800000000000000
+      internalID: -8256270017736148361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
